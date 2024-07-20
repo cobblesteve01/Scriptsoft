@@ -134,7 +134,7 @@ nav {
 li {
     list-style: none;
     display: inline;
-    margin: 5px;
+    margin: 10px;
     font-weight: 500;
     font-size: 18px;
 }
@@ -147,5 +147,14 @@ li a {
 
 li a:hover {
     background-color: rgba(30, 143, 255, 0.322);
+    padding: 12.5px;
+    border-radius: 10px;
 
+}
+
+.logo {
+    height: 45px;
+    margin-right: 10px;
+    vertical-align: -15px;
+    margin-left: -25px;
 }
